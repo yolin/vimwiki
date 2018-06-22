@@ -1,0 +1,21 @@
+= ubuntu =
+1. 滑鼠游標 不見: gsettings set org.gnome.settings-daemon.plugins.cursor active false
+
+== command ==
+* python
+* c
+* shell
+
+{{{
+   aaaaaaaa
+bbbbbbbbbbbbbb
+   ccccccccccc
+
+}}}
+
+*== blod ==*
+
+_italic_
+
+[[www.hinet.net]]  -- wiki link
+
